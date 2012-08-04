@@ -8,11 +8,11 @@ Benchmarks:
 -----------
 Amiga 1200 (301): 2107sec / 35m7s
 
-![Rendering](https://bpoint.github.com/aobench-amiga/aobench-amiga1200-301-rendering.jpg)
+![Rendering](http://bpoint.github.com/aobench-amiga/aobench-amiga1200-301-rendering.jpg)
 
 ( https://twitter.com/bpoint42/status/211416863727550464 )
 
-![Time Result](https://bpoint.github.com/aobench-amiga/aobench-amiga1200-301-time.jpg)
+![Time Result](http://bpoint.github.com/aobench-amiga/aobench-amiga1200-301-time.jpg)
 
 ( https://twitter.com/bpoint42/status/212229752034045952 )
 
