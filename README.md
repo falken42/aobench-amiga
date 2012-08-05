@@ -36,7 +36,7 @@ How to build and run:
 
 4) Run the 'RunAros.bat' file to execute aobench at full speed within WinUAE.  For (approximate) Amiga 1200 speeds, you will first need to run WinUAE and modify the A1200 profile to include an FPU (68881).  After saving the configuration, run the 'runa1200.bat' file.
 
-5) Once rendering is completed, the code will wait until a mouse button is pressed.  After a button is pressed, the total rendering time (in seconds) will be displyed in the console.  The benchmark does not include the time waiting for mouse input.
+5) Once rendering is completed, the code will wait until a mouse button is pressed.  After a button is pressed, the total rendering time (in seconds) will be displayed in the console.  The benchmark does not include the time waiting for mouse input.
 
 If you would like the code to output a .ppm of the final framebuffer, uncomment the WRITE_PPM_OUTPUT #define, recompile, and it will be written to the root of DH0 by default.
 
