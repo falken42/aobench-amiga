@@ -8,19 +8,19 @@ Benchmarks:
 -----------
 Amiga 1200 (301): 2107sec / 35m7s
 
-![Rendering](http://falken42.github.com/aobench-amiga/aobench-amiga1200-301-rendering.jpg)
+![Rendering](http://falken42.github.com/aobench-amiga1200-301-rendering.jpg)
 
 https://twitter.com/_Falken/status/211416863727550464
 
-![Time Result](http://falken42.github.com/aobench-amiga/aobench-amiga1200-301-time.jpg)
+![Time Result](http://falken42.github.com/aobench-amiga1200-301-time.jpg)
 
 https://twitter.com/_Falken/status/212229752034045952
 
 Amiga 1200 (Goatfather): 2406sec / 40m6s
 
-![Rendering](http://falken42.github.com/aobench-amiga/aobench-amiga1200-goatfather-rendering-small.jpg)
+![Rendering](http://falken42.github.com/aobench-amiga1200-goatfather-rendering-small.jpg)
 
-![Time Result](http://falken42.github.com/aobench-amiga/aobench-amiga1200-goatfather-time-small.jpg)
+![Time Result](http://falken42.github.com/aobench-amiga1200-goatfather-time-small.jpg)
 
 WinUAE in A1200 mode: 3114sec / 51m54s
 
