@@ -1,6 +1,6 @@
 This is a port of aobench ( http://code.google.com/p/aobench/ ) made to run on Amiga hardware.  aobench is a small ambient occlusion renderer for benchmarking real world floating point performance in various languages.  Please see the project page for more details.
 
-The code here utilizes the WinUAE Demo ToolChain in order to build on Windows.  You will need both that toolchain, and the patches for the toolchain (available at https://github.com/bpoint/TSSWUAETCFADP-patches -- see installation instructions there) in order to build this code.
+The code here utilizes the WinUAE Demo ToolChain in order to build on Windows.  You will need both that toolchain, and the patches for the toolchain (available at https://github.com/Falken42/TSSWUAETCFADP-patches -- see installation instructions there) in order to build this code.
 
 If you just want the aobench.exe, it is located in the root with a size of 3,968 bytes.  Workbench 3.1 is known to work properly on a real Amiga 1200.  Earlier versions might work too, but has not been tested.
 
@@ -8,19 +8,19 @@ Benchmarks:
 -----------
 Amiga 1200 (301): 2107sec / 35m7s
 
-![Rendering](http://bpoint.github.com/aobench-amiga/aobench-amiga1200-301-rendering.jpg)
+![Rendering](http://falken42.github.com/aobench-amiga/aobench-amiga1200-301-rendering.jpg)
 
-https://twitter.com/bpoint42/status/211416863727550464
+https://twitter.com/_Falken/status/211416863727550464
 
-![Time Result](http://bpoint.github.com/aobench-amiga/aobench-amiga1200-301-time.jpg)
+![Time Result](http://falken42.github.com/aobench-amiga/aobench-amiga1200-301-time.jpg)
 
-https://twitter.com/bpoint42/status/212229752034045952
+https://twitter.com/_Falken/status/212229752034045952
 
 Amiga 1200 (Goatfather): 2406sec / 40m6s
 
-![Rendering](http://bpoint.github.com/aobench-amiga/aobench-amiga1200-goatfather-rendering-small.jpg)
+![Rendering](http://falken42.github.com/aobench-amiga/aobench-amiga1200-goatfather-rendering-small.jpg)
 
-![Time Result](http://bpoint.github.com/aobench-amiga/aobench-amiga1200-goatfather-time-small.jpg)
+![Time Result](http://falken42.github.com/aobench-amiga/aobench-amiga1200-goatfather-time-small.jpg)
 
 WinUAE in A1200 mode: 3114sec / 51m54s
 
